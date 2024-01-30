@@ -20,6 +20,10 @@ Most of these models are also available standalone on [Sketchfab](https://sketch
 
 > ***Disclaimer:*** *These are fan models, and are in no way affiliated with Valve. While I take no issue with them being used commercially (given antiquate credit), I take no responsibility for any legal action incurred from Valve.*
 
+## Unit Scale
+
+Care has been taken to keep these models dimensionally accurate and true to the original artistic intent. Each model has been ported and/or remade at a scale of 1 hammer unit = 1 inch (.0254 meters). It is also common to represent Source Engine models at a scale of 1 hammer unit = 0.01905 meters. If this is desired, simply scale each model by .075.
+
 ## Installation
 
 To download the collection, click "*Code > Download Zip*", and extract the zip contents to somewhere on your computer. 
