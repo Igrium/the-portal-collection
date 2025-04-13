@@ -22,11 +22,13 @@ Most of these models are also available standalone on [Sketchfab](https://sketch
 
 ## Unit Scale
 
-Care has been taken to keep these models dimensionally accurate and true to the original artistic intent. Each model has been ported and/or remade at a scale of 1 hammer unit = 1 inch (.0254 meters). It is also common to represent Source Engine models at a scale of 1 hammer unit = 0.01905 meters. If this is desired, simply scale each model by .075.
+Care has been taken to keep these models dimensionally accurate and true to the original artistic intent. Each model has been ported and/or remade at a scale of 1 Hammer unit = 0.75 inches (0.01905 Blender units). 
+
+Honestly, I think 1 HU = 1 inch is better, but this seems to be the de-facto standard.
 
 ## Installation
 
-To download the collection, click "*Code > Download Zip*", and extract the zip contents to somewhere on your computer. 
+To download the collection, click "*Code > Download Zip*", and extract the zip contents to somewhere on your computer. All assets are designed to work with Blender 3.6+
 
 ![download the repo](img/download.png)
 
