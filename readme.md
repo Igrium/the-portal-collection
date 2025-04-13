@@ -37,3 +37,8 @@ Then, simply add the installed folder as an asset library in Blender.
 ![asset library](img/asset_library.png)
 
 Each file in the collection is self-contained, with all its textures packed in. This means that you can remove the blend from the collection folder and it will still work.
+
+## Credits
+
+- Valve: original models and art
+- dustyoo10: Personality sphere rig
